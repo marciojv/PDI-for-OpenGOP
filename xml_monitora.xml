@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?><opengop><titulo> OPENGOP TESTE DE APLICATIVO</titulo>
+<teste><nome>Teste de Conexao com database mysql</nome><descricao>Realiza conexao com  o database mysql</descricao><status>OK</status><msgerro></msgerro></teste>
+<teste><nome>Teste de Conexao com database postgresql</nome><descricao>Realiza conexao com  o database postgresql</descricao><status>ERRO</status><msgerro>A conexao nao foi estabelecida</msgerro></teste>
+<teste><nome>Teste de Conexao com servico nginx</nome><descricao>Realiza conexao com  o servico nginx</descricao><status>ERRO</status><msgerro>A conexao nao foi estabelecida</msgerro></teste>
+<teste><nome>Teste de Conexao com servico alfresco</nome><descricao>Realiza conexao com  o servico alfresco</descricao><status>ERRO</status><msgerro>A conexao nao foi estabelecida</msgerro></teste>
+<teste><nome>Teste de Conexao com servico pentaho</nome><descricao>Realiza conexao com  o servico pentaho</descricao><status>ERRO</status><msgerro>A conexao nao foi estabelecida</msgerro></teste>
+<teste><nome>Teste de Conexao com servico sugarcrm</nome><descricao>Realiza conexao com  o servico sugarcrm</descricao><status>OK</status><msgerro></msgerro></teste>
+<teste><nome>Teste de Conexao com servico apache</nome><descricao>Realiza conexao com  o servico apache</descricao><status>OK</status><msgerro></msgerro></teste>
+</opengop>
